@@ -1,6 +1,3 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your test
-Use the left arrow to go back!
+Original Content has now been replaced
+by something else I, your great overlord, 
+deem worth. 
